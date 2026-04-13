@@ -28,8 +28,20 @@ http://6.iptv11.is:80/D81248V7694Q/gzMN7Z8WJw/9680
 http://link.iptvn.ru:80/Ext/bttSQHpKsgkY/76
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NN8x1y6/Canal-Claro.png" group-title="→ CINE & SERIES HD ←",CANAL CLARO
+http://ln.iptvn.ru/BzQwu
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6c9t82SK/CGTN-Espanol.png" group-title="→ NOTICIAS HD ←",CGTN ESPAÑOL
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LDMLPhG6/Cine-Espa-ol.png" group-title="→ CINE & SERIES HD ←",CINE ESPAÑOL
+http://6.iptv11.is:80/A68069A3932S/kbPcMr10gs/92
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLh9Lsv/Cinelatino.png" group-title="→ CINE & SERIES HD ←",CINE LATINO
+http://200.229.147.142:8000/play/a04g
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZSGR31M/CCL.png" group-title="→ CINE & SERIES HD ←",CINECANAL
@@ -42,6 +54,9 @@ http://link.iptvn.ru:80/Ext/bttSQHpKsgkY/711
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8bRyvMM/Cinemax-LA.png" group-title="→ CINE & SERIES HD ←",CINEMAX
 http://ln.iptvn.ru/AcEeM
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8bRyvMM/Cinemax-LA.png" group-title="→ CINE & SERIES HD ←",CINEMAX
+http://6.iptv11.is:80/A68069A3932S/kbPcMr10gs/54275
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX1p4r6L/Clover-Channel.png" group-title="→ CINE & SERIES HD ←",CLOVER CHANNEL
 http://link.iptvn.ru:80/Ext/bttSQHpKsgkY/1084
@@ -53,6 +68,9 @@ http://link.iptvn.ru:80/Ext/bttSQHpKsgkY/714
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR2XRYX/DEPELICULA.png" group-title="→ CINE & SERIES HD ←",DE PELICULA
 http://ln.iptvn.ru/tYIYl
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj2jKzzm/dpeliculap.png" group-title="→ CINE & SERIES HD ←",DE PELICULA PLUS
+http://6.iptv11.is:80/A68069A3932S/kbPcMr10gs/50364
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vWHx2B/DHE.png" group-title="→ CINE & SERIES HD ←",DHE
@@ -83,19 +101,20 @@ http://link.iptvn.ru:80/Ext/bttSQHpKsgkY/1041
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kCPTccf/Galavisi-n.png" group-title="→ ENTRETENIMIENTO HD ←",GALAVISION
-http://6.iptv11.is:80/D81248V7694Q/gzMN7Z8WJw/436
+http://185.152.66.132:8080/Galavision/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kCPTccf/Galavisi-n.png" group-title="→ ENTRETENIMIENTO HD ←",GALAVISION
-http://185.152.66.132:8080/Galavision/index.m3u8
+http://6.iptv11.is:80/A68069A3932S/kbPcMr10gs/436
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6HK2MS/Golden-Blanco.png" group-title="→ CINE & SERIES HD ←",GOLDEN
 http://131.221.43.131:80/GOLDEN/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/808387g/goldenedge.png" group-title="→ CINE & SERIES HD ←",GOLDEN EDGE
 http://190.11.225.124:5000/live/golden_hd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ndn1fnX7/Golden-Premier.png" group-title="→ CINE & SERIES HD ←",GOLDEN PREMIER
+http://6.iptv11.is:80/A68069A3932S/kbPcMr10gs/304
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4wDQXzKN/Golden-Premier-2.png" group-title="→ CINE & SERIES HD ←",GOLDEN PREMIER 2 
 http://link.iptvn.ru:80/Ext/bttSQHpKsgkY/999
@@ -125,6 +144,10 @@ http://link.iptvn.ru:80/Ext/bttSQHpKsgkY/952
 http://6.iptv11.is:80/D81248V7694Q/gzMN7Z8WJw/70
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qdjQc0f/multipremier.png" group-title="→ CINE & SERIES HD ←",MP
+http://170.244.209.30:8000/play/a053
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4n0PDcM9/orotv.png" group-title="→ CINE & SERIES HD ←",ORO TV
 https://jmp2.uk/rok-44bdeb3ebdff5ed3b5468ddddfcfbf1b.m3u8
 
@@ -144,9 +167,16 @@ http://link.iptvn.ru:80/Ext/bttSQHpKsgkY/44
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0n9SGzY/space.png" group-title="→ CINE & SERIES HD ←",SPACE
 http://link.iptvn.ru:80/Ext/bttSQHpKsgkY/1001
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0n9SGzY/space.png" group-title="→ CINE & SERIES HD ←",SPACE
+http://6.iptv11.is:80/A68069A3932S/kbPcMr10gs/187
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b5dtNWq/Star-Channel.png" group-title="→ CINE & SERIES HD ←",STAR CHANNEL
 http://6.iptv11.is:80/D81248V7694Q/gzMN7Z8WJw/183
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0XwNm7Z/Studio-Universal.png" group-title="→ CINE & SERIES HD ←",STUDIO UNIVERSAL
+http://6.iptv11.is:80/A68069A3932S/kbPcMr10gs/73
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO CHICAGO
@@ -183,9 +213,16 @@ http://190.11.225.124:5000/live/tlc_sd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRr8Mm4/tnt.png" group-title="→ CINE & SERIES HD ←",TNT
 http://45.235.37.226:80/tnthd/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRr8Mm4/tnt.png" group-title="→ CINE & SERIES HD ←",TNT
+http://45.190.13.8:80/TNTHD/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KFGMFmL/tnt-series.png" group-title="→ CINE & SERIES HD ←",TNT SERIES
 http://6.iptv11.is:80/D81248V7694Q/gzMN7Z8WJw/9866
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/20DgtPz8/Unicable.png" group-title="→ ENTRETENIMIENTO HD ←",UNICABLE
+http://185.56.109.253:80/Unicable/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DPwtCVLS/Uni-M-s.png" group-title="→ ENTRETENIMIENTO HD ←",UNIMAS
